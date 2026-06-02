@@ -1,0 +1,25 @@
+# Virtual environment (never push this to GitHub)
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Database file (optional, can push for demo)
+*.db
+
+# Uploaded files
+uploads/
+
+# ML model file (we will push this)
+# ml/model.pkl
+
+# Environment variables
+.env
+
+# VS Code settings
+.vscode/
+
+# Mac files
+.DS_Store

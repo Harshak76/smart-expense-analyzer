@@ -1,0 +1,337 @@
+description,category
+mcdonalds,Food
+burger king,Food
+pizza hut,Food
+dominos pizza,Food
+kfc chicken,Food
+subway sandwich,Food
+starbucks coffee,Food
+dunkin donuts,Food
+restaurant meal,Food
+food delivery app,Food
+swiggy order,Food
+zomato order,Food
+grocery store,Food
+milk bread eggs,Food
+vegetable market,Food
+fruit shop,Food
+dinner at restaurant,Food
+lunch at cafe,Food
+breakfast at hotel,Food
+bakery shop,Food
+ice cream parlour,Food
+biryani house,Food
+chinese food order,Food
+italian restaurant,Food
+sushi bar,Food
+juice corner,Food
+tea stall,Food
+sweet shop,Food
+chicken wings order,Food
+fish market,Food
+paneer dish,Food
+thali restaurant,Food
+food court,Food
+canteen meal,Food
+tiffin service,Food
+meal kit,Food
+organic grocery,Food
+snacks purchase,Food
+instant noodles,Food
+frozen food,Food
+cooking ingredients,Food
+spices store,Food
+cooking oil,Food
+flour sugar,Food
+street food,Food
+fast food outlet,Food
+seafood restaurant,Food
+vegan food,Food
+health food store,Food
+coffee shop,Food
+uber trip,Transport
+ola cab,Transport
+auto fare,Transport
+bus ticket,Transport
+train ticket,Transport
+metro recharge,Transport
+petrol station,Transport
+diesel refill,Transport
+parking charges,Transport
+toll booth,Transport
+rapido bike,Transport
+flight booking,Transport
+cab service,Transport
+fuel refill,Transport
+car service center,Transport
+bike repair shop,Transport
+tyre shop,Transport
+irctc ticket,Transport
+makemytrip booking,Transport
+redbus booking,Transport
+local train,Transport
+monthly pass,Transport
+taxi service,Transport
+airport transfer,Transport
+outstation trip,Transport
+car wash,Transport
+driving school,Transport
+vehicle registration,Transport
+fastag recharge,Transport
+highway toll,Transport
+ferry boat,Transport
+car rental service,Transport
+bike rental,Transport
+scooter rental,Transport
+vehicle repair,Transport
+roadside assistance,Transport
+oil change,Transport
+brake repair,Transport
+engine service,Transport
+battery replacement,Transport
+netflix,Entertainment
+spotify,Entertainment
+amazon prime,Entertainment
+youtube premium,Entertainment
+movie ticket,Entertainment
+cinema booking,Entertainment
+steam games,Entertainment
+concert ticket,Entertainment
+amusement park,Entertainment
+hotstar,Entertainment
+zee5,Entertainment
+disney plus,Entertainment
+sony liv,Entertainment
+theme park,Entertainment
+water park,Entertainment
+bowling,Entertainment
+escape room,Entertainment
+board game,Entertainment
+comic book,Entertainment
+live show,Entertainment
+sports event,Entertainment
+ipl match,Entertainment
+swimming pool,Entertainment
+golf club,Entertainment
+arcade,Entertainment
+virtual reality,Entertainment
+museum entry,Entertainment
+zoo visit,Entertainment
+safari,Entertainment
+boat ride,Entertainment
+photography,Entertainment
+karaoke,Entertainment
+pub entertainment,Entertainment
+video game purchase,Entertainment
+playstation,Entertainment
+xbox,Entertainment
+gaming subscription,Entertainment
+apple arcade,Entertainment
+twitch subscription,Entertainment
+podcast subscription,Entertainment
+ebook purchase,Entertainment
+audiobook,Entertainment
+stand up comedy,Entertainment
+theatre show,Entertainment
+opera tickets,Entertainment
+art gallery,Entertainment
+circus tickets,Entertainment
+electricity bill,Bills
+water supply bill,Bills
+internet service bill,Bills
+phone prepaid recharge,Bills
+postpaid mobile bill,Bills
+cooking gas bill,Bills
+house rent,Bills
+life insurance premium,Bills
+home loan emi,Bills
+broadband charges,Bills
+dth subscription,Bills
+apartment maintenance,Bills
+society fee,Bills
+property tax,Bills
+wifi charges,Bills
+car loan emi,Bills
+personal loan emi,Bills
+health insurance premium,Bills
+vehicle insurance renewal,Bills
+term plan premium,Bills
+utility charges,Bills
+lpg cylinder,Bills
+cable subscription,Bills
+landline charges,Bills
+municipal charges,Bills
+water tanker charges,Bills
+building maintenance,Bills
+club membership,Bills
+annual plan renewal,Bills
+domain hosting,Bills
+software license,Bills
+cloud storage,Bills
+storage subscription,Bills
+security system,Bills
+alarm system charges,Bills
+generator maintenance,Bills
+lift maintenance,Bills
+solar panel charges,Bills
+water purifier service,Bills
+ac service charges,Bills
+apollo pharmacy,Health
+medicine tablets,Health
+doctor fees,Health
+hospital charges,Health
+blood test lab,Health
+annual checkup,Health
+dental treatment,Health
+eye checkup,Health
+gym fees,Health
+yoga classes,Health
+whey protein,Health
+medical shop,Health
+clinic charges,Health
+physiotherapy session,Health
+therapy session,Health
+xray charges,Health
+mri scan,Health
+ct scan charges,Health
+ecg test,Health
+vaccination dose,Health
+vitamin supplements,Health
+calcium tablets,Health
+iron supplements,Health
+ayurvedic treatment,Health
+homeopathy medicine,Health
+dietitian fees,Health
+nutritionist consultation,Health
+fitness equipment,Health
+pulse oximeter,Health
+blood pressure machine,Health
+glucometer strips,Health
+thermometer,Health
+first aid,Health
+hand sanitizer,Health
+optician visit,Health
+glasses frames,Health
+contact lens,Health
+hearing aid,Health
+orthopedic treatment,Health
+dermatologist,Health
+skin clinic,Health
+hair clinic,Health
+fertility clinic,Health
+pediatrician visit,Health
+gynecologist fees,Health
+psychiatrist session,Health
+neurologist visit,Health
+cardiology checkup,Health
+amazon purchase,Shopping
+flipkart order,Shopping
+myntra fashion,Shopping
+ajio clothing,Shopping
+clothing store,Shopping
+footwear shop,Shopping
+electronics purchase,Shopping
+new mobile phone,Shopping
+new laptop,Shopping
+furniture purchase,Shopping
+home decor item,Shopping
+kitchen gadget,Shopping
+sports gear,Shopping
+jewellery purchase,Shopping
+gift item,Shopping
+meesho order,Shopping
+snapdeal item,Shopping
+nykaa order,Shopping
+cosmetics purchase,Shopping
+headphones purchase,Shopping
+earbuds purchase,Shopping
+smartwatch,Shopping
+tablet purchase,Shopping
+camera purchase,Shopping
+printer,Shopping
+keyboard,Shopping
+computer mouse,Shopping
+monitor,Shopping
+external hard drive,Shopping
+pen drive,Shopping
+memory card,Shopping
+phone cover,Shopping
+screen protector,Shopping
+charger,Shopping
+power bank,Shopping
+bluetooth speaker,Shopping
+home theatre system,Shopping
+new television,Shopping
+refrigerator,Shopping
+washing machine,Shopping
+air conditioner unit,Shopping
+microwave,Shopping
+mixer grinder,Shopping
+ceiling fan,Shopping
+table lamp,Shopping
+curtains,Shopping
+bedsheet,Shopping
+bathroom fittings,Shopping
+stationery,Shopping
+art supplies,Shopping
+salary received,Income
+freelance project payment,Income
+business revenue,Income
+stock dividend,Income
+bank interest,Income
+property rent received,Income
+performance bonus,Income
+order refund,Income
+cashback reward,Income
+investment profit,Income
+stock market gain,Income
+mutual fund profit,Income
+fixed deposit maturity,Income
+savings account interest,Income
+side job income,Income
+consulting payment,Income
+project milestone payment,Income
+sales commission,Income
+affiliate revenue,Income
+youtube revenue,Income
+social media earnings,Income
+blog revenue,Income
+online teaching income,Income
+tuition fees collected,Income
+rental collected,Income
+subletting revenue,Income
+monetary gift,Income
+prize money won,Income
+scholarship received,Income
+insurance claim settled,Income
+atm cash withdrawal,Other
+bank service charge,Other
+transaction processing fee,Other
+unidentified transaction,Other
+miscellaneous,Other
+neft transfer,Other
+rtgs payment,Other
+imps transfer,Other
+wallet top up,Other
+cheque clearance,Other
+demand draft charges,Other
+account maintenance fee,Other
+kyc verification,Other
+pan card application,Other
+notary fee,Other
+stamp duty charges,Other
+legal consultation,Other
+chartered accountant fee,Other
+tax filing,Other
+gst filing,Other
+income tax,Other
+customs duty,Other
+import charges,Other
+courier charges,Other
+postal charges,Other
+printing charges,Other
+photocopy charges,Other
+passport fee,Other
+visa fee,Other
+embassy charges,Other
+government fee,Other
